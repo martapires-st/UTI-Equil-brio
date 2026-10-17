@@ -1,0 +1,6 @@
+{
+  "name": "UTI Equilíbrio - Relógio e Escalas de Enfermagem",
+  "description": "Relógio inteligente para detecção de sobrecarga em profissionais de enfermagem com pausas estratégicas e gerenciamento de escalas hospitalares com histórico de aferições.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
